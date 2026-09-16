@@ -88,6 +88,24 @@ A modern gym platform combining a responsive user experience with membership, bo
 
 ---
 
+### [Campus ExamFlow](https://github.com/abdulhadi545/campus-examflow)
+
+A constraint-driven academic exam orchestration case study focused on conflict-aware room and time allocation.
+
+**Highlights:**
+
+- Greedy constraint-based planning
+- Student and instructor conflict checks
+- Room capacity, type, and suitability rules
+- Multi-room allocation for large exams
+- Role-based and multilingual product design
+
+**Technologies:** Python, Flask, SQLAlchemy, SQLite, Flask-Babel
+
+[View the Engineering Case Study](https://github.com/abdulhadi545/campus-examflow)
+
+---
+
 ## Internship Experience
 
 ### Software & AI Development Intern — FuratNet
