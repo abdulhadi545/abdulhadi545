@@ -6,7 +6,7 @@
 
 Building intelligent, practical, and reusable software systems.
 
-[![Email](https://img.shields.io/badge/Email-bh127924%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bh127924@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bh127924%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bh127924@gmail.com)\n\n![Profile Views](https://komarev.com/ghpvc/?username=abdulhadi545&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -46,7 +46,7 @@ A computer-vision project designed for real-time visual analysis using live came
 
 ---
 
-### AI Business Agent
+### [AI Business Agent](https://github.com/abdulhadi545/ai-business-agent-showcase)
 
 A reusable AI agent platform designed to adapt to different businesses, including gyms, restaurants, hotels, pharmacies, and internet service providers.
 
@@ -66,7 +66,7 @@ A reusable AI agent platform designed to adapt to different businesses, includin
 
 ---
 
-### AZM Gym Web Platform
+### [AZM Gym Web Platform](https://github.com/abdulhadi545/azm-gym-platform-showcase)
 
 A modern gym platform combining a responsive user experience with membership, booking, e-commerce, authentication, and administration features.
 
